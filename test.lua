@@ -1,5 +1,4 @@
 local Library = loadstring(game:HttpGet("https://hideout.one/api/cdn/library"))()
-local EspLibrary = loadstring(game:HttpGet("https://hideout.one/api/cdn/espv2"))()
 local ThemeManager = loadstring(game:HttpGet('https://hideout.one/api/cdn/theme_manager'))()
 local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/violin-suzutsuki/LinoriaLib/main/addons/SaveManager.lua"))()
 
